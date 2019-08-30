@@ -1,0 +1,11 @@
+# app binary
+app
+yukhaji
+
+# dependencies
+vendor/
+
+# auto-generated stuff
+.vscode/
+
+docker-volumes
