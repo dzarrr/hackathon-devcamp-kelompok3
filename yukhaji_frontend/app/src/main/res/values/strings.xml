@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">devcamp</string>
+    <string name="target_haji"><u>Target Naik Haji</u></string>
+    <string name="wujudkan_mimpi_ke_tanah_suci">Wujudkan Mimpi ke Tanah Suci</string>
+    <string name="mulai_tabungan_hajimu_sekarang_mudah_aman_dan_fleksibel">Mulai Tabungan Hajimu Sekarang. Mudah, Aman dan Fleksibel.</string>
+    <string name="mulai_nabung">Mulai Nabung</string>
+    <string name="mulaiajadulu">#MulaiAjaDulu</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="upload">Upload</string>
+    <string name="ketuk_gambar">*Ketuk gambar</string>
+    <string name="pilih_foto_ktp">Pilih Foto KTP</string>
+    <string name="foto_ktp">foto ktp</string>
+</resources>
